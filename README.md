@@ -1,1 +1,1 @@
-# LearningCodeWithDSA
+# LearningDSA
