@@ -8,3 +8,6 @@ class Solution:
             else:
                 s.add(val)
         return True
+    #another way to solve Optimal
+        # c= Counter(arr)
+        # return len(c)==len(set(c.values))
